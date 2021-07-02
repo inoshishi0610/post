@@ -1,0 +1,197 @@
+Package: com.spark.autounlockx
+Name: AutoUnlockX
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Unless there are notifications, the device will automatically unlock when valid Face ID is detected
+Maintainer: mhdev
+Author: mhdev
+Section: Tweaks
+Version: 1.0.16
+Installed-Size: 352
+Filename: ./debs/com.inoshishi0610.autounlockx_1.0.16.deb
+Size: 64682
+MD5sum: 2690665b101ce45878b96d8100ed995f
+SHA1: cac359a2267a8788acff81b3daeb6ad68e94bc5f
+SHA256: 272a54819e8b298918dc95f97abd0f3d5d402a132efd1dcfa5b061d5aa921272
+
+Package: ru.rejail.filza
+Name: Filza File Manager
+Version: 3.8.2-4k
+Description: Filza crack
+Author: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Installed-Size: 28513
+Section: Utilities
+Architecture: iphoneos-arm
+Maintainer: mhdev
+Depiction: mhdev
+Filename: ./debs/com.inoshishi0610.filza_3.8.2.deb
+Size: 10285272
+MD5sum: c45f2c8fc3d754edc2ed3697b8971a3a
+SHA1: 532a6b3d80e747289acadc0ce08699e0e101a6f2
+SHA256: 59fe524cb3009db5acbdc8f6e2cedb0c3dd2ad7bef7db07f50b1a75f89121e5e
+
+Package: com.inoshishi0610.lunartime
+Name: Lunartime
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Thêm ngày âm Lịch vào góc màn hình trái của bạn
+Maintainer: mhdev <inoshishi0610@gmail.com>
+Author: mhdev <inoshishi0610@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/com.inoshishi0610.lunartime_1.2_iphoneos-arm.deb
+Size: 18868
+MD5sum: e56d23e614a132e5b6a325fe0c1be4d7
+SHA1: e8cee88e24748df8a45b73986ead7e6c677aa2cb
+SHA256: eb2c455e6b19f1f50c28658735df07273ef5f939c4a3f6e1a14602037f554e60
+
+Package: com.inoshishi0610.appstore
+Version: 0.9.16
+Priority: optional
+Section: Tweaks
+Maintainer: mhdev
+Description: Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore.Cho phép bạn hạ cấp & nâng cấp ứng dụng trong AppStore, chặn cập nhật, vượt qua giới hạn tải xuống 200 MB, tắt quảng cáo tìm kiếm và vô hiệu hóa ứng dụng. Cách sử dụng: Sau khi cài đặt, bạn chỉ cần nhấn giữ vào mục tải về trong các ứng dụng sẽ hiển thị danh sách phiên bản của ứng dụng đó.Hỗ trợ Ios 11-14.9
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Architecture: iphoneos-arm
+Name: AppStore++
+Author: mhdev
+Filename: ./debs/com.inoshishi0610.appstore.deb
+Size: 1642132
+MD5sum: df9b2b85dfee05c7ac4aaa2dcd447a97
+SHA1: c988da9b78de18f8ef5b1303f8a21ae1c9776d06
+SHA256: a7a3d0093b3fe02007d95066c2681078d165b75f7d2ce32343fcdee012b4aa13
+
+Package: com.p2kdev.safariblocker
+Architecture: iphoneos-arm
+Name: SafariBlocker
+Version: 1.2
+Description: Chặn tab với các tuỳ chọn!
+Author: mhdev <inoshishi0610@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Maintainer: mhdev <inoshishi0610@gmail.com>
+Filename: ./debs/com.safariblocker_1.2.deb
+Size: 40668
+MD5sum: cf5d0fa116368a0e7b73b27662adad59
+SHA1: d22c88e3de8bdc9849a02ae44e614d16021fdef3
+SHA256: 917c21abbce2a6c14c6664491bf139ad9d96625a6c88c7bda22bde8d17249c41
+
+Package: com.udevs.bakgrunnur
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 1448
+Depends: mobilesubstrate (>= 0.9.5000), firmware(>=13.0), com.opa334.ccsupport, com.opa334.altlist, com.udevs.vexillarius
+Filename: ./debs/com.inoshishi0610.bakgrunnur_1.7.1.deb
+Size: 249808
+MD5sum: 37351a6834bc73647a211bd0ca5aa445
+SHA1: 97f0d32eb6ed112b9d54e7f0916c7cdfc41a888f
+SHA256: 09b454162969927e3419a64a00cd0a91d5ac24fbe33f70fea868190f2ba365d7
+Section: Tweaks
+Description: Truly backgrounding your apps
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
+Name: Bakgrunnur
+
+Package: ru.rj.youtubelite
+Name: YouTubeLite
+Version: 0.9.5
+Description: 
+ - Tính năng:
+ * Chặn quảng cáo 
+ * Phát lại nền 
+ * Ẩn nút truyền 
+ * Ấn nút tải xuống 
+ * Tắt cửa sổ bật lên 
+ * Thay đối kiếu MiniPlayer 
+ * Tắt nhấn đúp 
+ * Mở rộng Menu chia sẻ 
+ * Tắt tự động phát 
+ * Chế độ Ipad + Hỗ trợ youtube phiên bản mới nhất!
+Author: mhdev <inoshishi0610@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 564
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: mhdev <inoshishi0610@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Size: 57080
+Filename: ./debs/com.youtubelite_0.9.5.deb
+MD5sum: 935683f346a27d02ff4e41e0d50b2d64
+SHA1: 66b2eea9f523e7f9ef816936be32c22c2a09abdf
+SHA256: c75bd533e780963025c54c398726056e4f2ea4ceb7d6056eba4708ccfdb3084f
+
+Package: com.udevs.vexillarius
+Version: 0.0.2
+Section: System
+Maintainer: mhdev
+Description: Standard Bearer
+Architecture: iphoneos-arm
+Installed-Size: 136
+Name: vexillarius
+Author: mhdev
+Tag: role::hacker
+Size: 8574
+Filename: ./debs/com.udevs.vexillarius.deb
+MD5sum: 73ea4da0627b706cbdd59fcf64b7345d
+SHA1: 69d946228f98679919b4a6d8a60067e1640c5471
+SHA256: 839ca463c187eec8795b1caef6877a43193d155d6768e91986c4a1edb3621271
+
+Package: com.miro.tranzlo
+Name: Tranzlo
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.tranzlo
+Description: A life savior translator tweak.
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Icon: file:////Library/PreferenceBundles/Tranzlo.bundle/Header.png
+Version: 3.2.1
+Installed-Size: 5340
+Size: 2156076
+Filename: ./debs/com.inoshishi0610.tranzlo_3.2.1.deb
+MD5sum: 8e2d48db7a6bb04665c69eefc97f10c3
+SHA1: b9d7d8081e86010a7719081ccd3b54239aa73e83
+SHA256: b31ba43300e21a89587d37d2d7e11840c490f0a23b93054e3eff19659b2e1edc
+
+Package: com.miro.libmiro
+Name: libMiRO
+Depends: firmware (>=12.0), com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiro
+Description: Shared library for my tweaks.
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Development
+Tag: role::developer, compatible_min::ios12, compatible_max::ios14
+Version: 1.0.18
+Installed-Size: 1676
+Size: 257908
+Filename: ./debs/com.inoshishi0610.libmiro_1.0.18.deb
+MD5sum: 11b3dda11020d683d0f2102d582457e3
+SHA1: 07c1bc3d21ba63afcc1be50c62f2f036a5d4854f
+SHA256: 0e41640853e67a228af63c1bfa45bb8af490654442e1d1913d9e130963f5efaa
+
+Package: com.miro.libmiroprefs
+Name: libMiROPrefs
+Depends: firmware (>=12.0)
+Architecture: iphoneos-arm
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroprefs
+Description: Shared library for my tweaks' preferences.
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Development
+Tag: role::developer, compatible_min::ios12, compatible_max::ios14
+Version: 1.0.6
+Installed-Size: 1348
+Size: 282426
+Filename: ./debs/com.inoshishi0610.libmiroprefs_1.0.6.deb
+MD5sum: 5f4c24c4817955838f9ca38e6020bf16
+SHA1: c8782c0afec41c5c96bbb9ee7a4f520fe2319d55
+SHA256: 6087de45dd5ebea3135ef2915fb59f96037c97b2d427878f2686c7dfa127ca75
